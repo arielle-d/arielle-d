@@ -1,8 +1,8 @@
 ## Hi there 👋
-🔭 I’m currently working on a 2D game project
-🌱 I’m currently learning C#
-💬 Ask me about anything
-⚡ Fun fact: a snail can sleep for three years
+🔭 I’m currently working on a 2D game project  
+🌱 I’m currently learning C#  
+💬 Ask me about anything  
+⚡ Fun fact: a snail can sleep for three years  
 
 
 <!--
