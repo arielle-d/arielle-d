@@ -2,7 +2,7 @@
 🔭 I’m currently working on a 2D game project\
 🌱 I’m currently learning C#\
 💬 Ask me about anything\
-⚡ Fun fact: a snail can sleep for three years\
+⚡ Fun fact: a snail can sleep for three years
 
 
 <!--
